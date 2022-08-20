@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "title": "Digestion",
+      "name": "Hajmola",
+      "Description": "Hajmola is a unique blend of Indian herbs, spices and edible salts that helps with your digestion when taken after a meal. These tablets can be very useful in cases of indigestion, loss of appetite and flatulence. Hajmola tablets are a great way to enjoy while staying healthy.",
+      "imgUrl": "https://static.oxinis.com/healthmug/image/product/5697-2-1000.webp",
+      "rating": "4",
+      "price": "100"
+    },
+    {
+      "id": "2",
+      "title": "Digestion",
+      "name": "Digene",
+      "Description": "Digene is an antacid that is known to provide effective relief from acidity and its symptoms such as heartburn, stomach discomfort, and abdominal pain.",
+      "imgUrl": "https://nepmed.s3.ap-southeast-1.amazonaws.com/products/600x600/3873/digene_gel_for_acidity_gas_relief_mint_flavour_200_ml_0_3.jpg",
+      "rating": "4",
+      "price": "100"
+    },
+    {
+      "id": "3",
+      "title": "Digestion",
+      "name": "zandu pancharishta",
+      "Description": "Zandu Pancharishta is a digestive tonic, enriched with the power of 35 ayurvedic herbs. It provides relief from recurring digestive problems like indigestion, gas, acidity, flatulence, constipation and improves appetite",
+      "imgUrl": "https://www.healthwithherbal.in/wp-content/uploads/2019/07/Pancharisht-Syrup.jpg",
+      "rating": "4",
+      "price": "150"
+    },
+    {
+      "id": "4",
+      "title": "Digestion",
+      "name": "Hajmola",
+      "Description": "Hajmola is a unique blend of Indian herbs, spices and edible salts that helps with your digestion when taken after a meal. These tablets can be very useful in cases of indigestion, loss of appetite and flatulence. Hajmola tablets are a great way to enjoy while staying healthy.",
+      "imgUrl": "https://static.oxinis.com/healthmug/image/product/5697-2-1000.webp",
+      "rating": "4",
+      "price": "100"
+    },
+    {
+      "id": "5",
+      "title": "Digestion",
+      "name": "Hajmola",
+      "Description": "Hajmola is a unique blend of Indian herbs, spices and edible salts that helps with your digestion when taken after a meal. These tablets can be very useful in cases of indigestion, loss of appetite and flatulence. Hajmola tablets are a great way to enjoy while staying healthy.",
+      "imgUrl": "https://static.oxinis.com/healthmug/image/product/5697-2-1000.webp",
+      "rating": "4",
+      "price": "100"
+    },
+    {
+      "id": "6",
+      "title": "Digestion",
+      "name": "Pudin Hara",
+      "Description": "Hajmola is a unique blend of Indian herbs, spices and edible salts that helps with your digestion when taken after a meal. These tablets can be very useful in cases of indigestion, loss of appetite and flatulence. Hajmola tablets are a great way to enjoy while staying healthy.",
+      "imgUrl": "https://www.netmeds.com/images/product-v1/600x600/15917/dabur_pudin_hara_pearls_capsule_10_s_0.jpg",
+      "rating": "4",
+      "price": "29"
+    },
+    {
+      "id": "7",
+      "title": "Digestion",
+      "name": "Hajmola",
+      "Description": "Hajmola is a unique blend of Indian herbs, spices and edible salts that helps with your digestion when taken after a meal. These tablets can be very useful in cases of indigestion, loss of appetite and flatulence. Hajmola tablets are a great way to enjoy while staying healthy.",
+      "imgUrl": "https://static.oxinis.com/healthmug/image/product/5697-2-1000.webp",
+      "rating": "4",
+      "price": "100"
+    },
+    {
+      "id": "8",
+      "title": "Digestion",
+      "name": "Antacid",
+      "Description": "Hajmola is a unique blend of Indian herbs, spices and edible salts that helps with your digestion when taken after a meal. These tablets can be very useful in cases of indigestion, loss of appetite and flatulence. Hajmola tablets are a great way to enjoy while staying healthy.",
+      "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/40044276_1-apollo-pharmacy-antacid-chewable-tablets-mint-flavour-apa0034.jpg",
+      "rating": "4",
+      "price": "100"
+    },
+    {
+      "id": "9",
+      "title": "Digestion",
+      "name": "Hingoli",
+      "Description": "Hajmola is a unique blend of Indian herbs, spices and edible salts that helps with your digestion when taken after a meal. These tablets can be very useful in cases of indigestion, loss of appetite and flatulence. Hajmola tablets are a great way to enjoy while staying healthy.",
+      "imgUrl": "https://www.netmeds.com/images/product-v1/600x600/15909/dabur_hingoli_tablet_90_s_0.jpg",
+      "rating": "4",
+      "price": "100"
+    },
+    {
+      "id": "10",
+      "title": "Digestion",
+      "name": "MPIL Daizam Syrup",
+      "Description": "It is in a syrup formulation with the major herb being Haritaki",
+      "imgUrl": "https://ayushmedi.com/wp-content/uploads/2021/02/daizam-syrup.jpg",
+      "rating": "4",
+      "price": "200"
+    }
+  ]
